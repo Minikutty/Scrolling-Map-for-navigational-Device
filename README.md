@@ -1,6 +1,7 @@
 # Scrolling-Map
 
 Copyright (c) 2015 Minikutty
+
 For license information, please refer to the file "License.md".
 
 Here's the link which provides license information. "https://github.com/Minikutty/Scrolling-Map-for-navigational-Device/blob/master/License.md"
